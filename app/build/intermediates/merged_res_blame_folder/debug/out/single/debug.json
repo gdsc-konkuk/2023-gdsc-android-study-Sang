@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "/Users/sang/.gradle/daemon/8.0/com.example.app3.app-merged_res-28:/drawable_baseline_arrow_back_ios_24.xml.flat",
+        "source": "/Users/sang/.gradle/daemon/8.0/com.example.app3.app-main-30:/drawable/baseline_arrow_back_ios_24.xml"
+    },
+    {
+        "merged": "/Users/sang/.gradle/daemon/8.0/com.example.app3.app-merged_res-28:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/sang/.gradle/daemon/8.0/com.example.app3.app-main-30:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/sang/.gradle/daemon/8.0/com.example.app3.app-merged_res-28:/drawable_logo0.png.flat",
+        "source": "/Users/sang/.gradle/daemon/8.0/com.example.app3.app-main-30:/drawable/logo0.png"
+    },
+    {
+        "merged": "/Users/sang/.gradle/daemon/8.0/com.example.app3.app-merged_res-28:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/sang/.gradle/daemon/8.0/com.example.app3.app-main-30:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/sang/.gradle/daemon/8.0/com.example.app3.app-merged_res-28:/font_pretendardextralight.otf.flat",
+        "source": "/Users/sang/.gradle/daemon/8.0/com.example.app3.app-main-30:/font/pretendardextralight.otf"
+    },
+    {
+        "merged": "/Users/sang/.gradle/daemon/8.0/com.example.app3.app-merged_res-28:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/sang/.gradle/daemon/8.0/com.example.app3.app-main-30:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/sang/.gradle/daemon/8.0/com.example.app3.app-merged_res-28:/layout_activity_editprofile.xml.flat",
+        "source": "/Users/sang/.gradle/daemon/8.0/com.example.app3.app-main-30:/layout/activity_editprofile.xml"
+    },
+    {
+        "merged": "/Users/sang/.gradle/daemon/8.0/com.example.app3.app-merged_res-28:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/sang/.gradle/daemon/8.0/com.example.app3.app-main-30:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/sang/.gradle/daemon/8.0/com.example.app3.app-merged_res-28:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/sang/.gradle/daemon/8.0/com.example.app3.app-main-30:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/sang/.gradle/daemon/8.0/com.example.app3.app-merged_res-28:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/sang/.gradle/daemon/8.0/com.example.app3.app-main-30:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/sang/.gradle/daemon/8.0/com.example.app3.app-merged_res-28:/font_pretendardlight.otf.flat",
+        "source": "/Users/sang/.gradle/daemon/8.0/com.example.app3.app-main-30:/font/pretendardlight.otf"
+    },
+    {
+        "merged": "com.example.app3.app-merged_res-28:/layout_activity_editprofile.xml.flat",
+        "source": "com.example.app3.app-main-30:/layout/activity_editprofile.xml"
+    },
+    {
+        "merged": "/Users/sang/.gradle/daemon/8.0/com.example.app3.app-merged_res-28:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/sang/.gradle/daemon/8.0/com.example.app3.app-main-30:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/sang/.gradle/daemon/8.0/com.example.app3.app-merged_res-28:/drawable_rectangler_1.xml.flat",
+        "source": "/Users/sang/.gradle/daemon/8.0/com.example.app3.app-main-30:/drawable/rectangler_1.xml"
+    },
+    {
+        "merged": "/Users/sang/.gradle/daemon/8.0/com.example.app3.app-merged_res-28:/font_pretendardsemibold.otf.flat",
+        "source": "/Users/sang/.gradle/daemon/8.0/com.example.app3.app-main-30:/font/pretendardsemibold.otf"
+    },
+    {
+        "merged": "/Users/sang/.gradle/daemon/8.0/com.example.app3.app-merged_res-28:/font_pretendardmedium.otf.flat",
+        "source": "/Users/sang/.gradle/daemon/8.0/com.example.app3.app-main-30:/font/pretendardmedium.otf"
+    },
+    {
+        "merged": "/Users/sang/.gradle/daemon/8.0/com.example.app3.app-merged_res-28:/font_pretendardblack.otf.flat",
+        "source": "/Users/sang/.gradle/daemon/8.0/com.example.app3.app-main-30:/font/pretendardblack.otf"
+    },
+    {
+        "merged": "/Users/sang/.gradle/daemon/8.0/com.example.app3.app-merged_res-28:/font_pretendardregular.otf.flat",
+        "source": "/Users/sang/.gradle/daemon/8.0/com.example.app3.app-main-30:/font/pretendardregular.otf"
+    },
+    {
+        "merged": "/Users/sang/.gradle/daemon/8.0/com.example.app3.app-merged_res-28:/drawable_underline.xml.flat",
+        "source": "/Users/sang/.gradle/daemon/8.0/com.example.app3.app-main-30:/drawable/underline.xml"
+    },
+    {
+        "merged": "/Users/sang/.gradle/daemon/8.0/com.example.app3.app-merged_res-28:/xml_backup_rules.xml.flat",
+        "source": "/Users/sang/.gradle/daemon/8.0/com.example.app3.app-main-30:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/sang/.gradle/daemon/8.0/com.example.app3.app-merged_res-28:/font_pretendardbold.otf.flat",
+        "source": "/Users/sang/.gradle/daemon/8.0/com.example.app3.app-main-30:/font/pretendardbold.otf"
+    },
+    {
+        "merged": "/Users/sang/.gradle/daemon/8.0/com.example.app3.app-merged_res-28:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/sang/.gradle/daemon/8.0/com.example.app3.app-main-30:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/sang/.gradle/daemon/8.0/com.example.app3.app-merged_res-28:/layout_activity_main.xml.flat",
+        "source": "/Users/sang/.gradle/daemon/8.0/com.example.app3.app-main-30:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/sang/.gradle/daemon/8.0/com.example.app3.app-merged_res-28:/font_pretendardextrabold.otf.flat",
+        "source": "/Users/sang/.gradle/daemon/8.0/com.example.app3.app-main-30:/font/pretendardextrabold.otf"
+    },
+    {
+        "merged": "/Users/sang/.gradle/daemon/8.0/com.example.app3.app-merged_res-28:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/sang/.gradle/daemon/8.0/com.example.app3.app-main-30:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/sang/.gradle/daemon/8.0/com.example.app3.app-merged_res-28:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/sang/.gradle/daemon/8.0/com.example.app3.app-main-30:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/sang/.gradle/daemon/8.0/com.example.app3.app-merged_res-28:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/sang/.gradle/daemon/8.0/com.example.app3.app-main-30:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/sang/.gradle/daemon/8.0/com.example.app3.app-merged_res-28:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/sang/.gradle/daemon/8.0/com.example.app3.app-main-30:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/sang/.gradle/daemon/8.0/com.example.app3.app-merged_res-28:/drawable_konkuklogo.png.flat",
+        "source": "/Users/sang/.gradle/daemon/8.0/com.example.app3.app-main-30:/drawable/konkuklogo.png"
+    },
+    {
+        "merged": "/Users/sang/.gradle/daemon/8.0/com.example.app3.app-merged_res-28:/font_pretendardthin.otf.flat",
+        "source": "/Users/sang/.gradle/daemon/8.0/com.example.app3.app-main-30:/font/pretendardthin.otf"
+    },
+    {
+        "merged": "com.example.app3.app-merged_res-28:/layout_activity_main.xml.flat",
+        "source": "com.example.app3.app-main-30:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/sang/.gradle/daemon/8.0/com.example.app3.app-merged_res-28:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/sang/.gradle/daemon/8.0/com.example.app3.app-main-30:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/sang/.gradle/daemon/8.0/com.example.app3.app-merged_res-28:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/sang/.gradle/daemon/8.0/com.example.app3.app-main-30:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/sang/.gradle/daemon/8.0/com.example.app3.app-merged_res-28:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/sang/.gradle/daemon/8.0/com.example.app3.app-main-30:/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]
