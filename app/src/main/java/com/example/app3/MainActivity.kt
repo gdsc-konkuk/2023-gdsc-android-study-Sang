@@ -1,22 +1,44 @@
 package com.example.app3
 
-import android.content.Intent
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.widget.ImageView
+import androidx.appcompat.app.AppCompatActivity
+import com.example.app3.databinding.ActivityMainBinding
 
+@Suppress("DEPRECATION")
 class MainActivity : AppCompatActivity() {
+
+    private lateinit var binding: ActivityMainBinding
+    private val homeFragment = HomeFragment()
+    private val mypageFragment = MypageFragment()
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
+        binding = ActivityMainBinding.inflate(layoutInflater)
+        setContentView(binding.root)
 
-
-        val myPageEdit = findViewById<ImageView>(R.id.imageView5_1) //다음주에 뷰바인딩 정리 하면서 뷰바인딩 들어갈게용~
-
-        val intent = Intent(this, EditProfileActivity::class.java) //클래스에 뭐가 들어있는지를 넘겨줌 : reflection
-
-        myPageEdit.setOnClickListener {
-            startActivity(intent)
+        if(savedInstanceState==null) {
+            supportFragmentManager.beginTransaction()
+                .replace(binding.mainFrameLayout.id, homeFragment)
+                .addToBackStack(null)
+                .commit()
         }
+
+        val bottomMenu = binding.navigationView
+        bottomMenu.background = null
+
+        bottomMenu.setOnNavigationItemSelectedListener { item ->
+            when (item.itemId) {
+                R.id.homeFragment -> {
+                    supportFragmentManager.beginTransaction().replace(R.id.mainFrameLayout, homeFragment).commit()
+                    return@setOnNavigationItemSelectedListener true
+                }
+                R.id.mypageFragment -> {
+                    supportFragmentManager.beginTransaction().replace(R.id.mainFrameLayout, mypageFragment).commit()
+                    return@setOnNavigationItemSelectedListener true
+                }
+
+            }
+            return@setOnNavigationItemSelectedListener false
+        }
+
     }
 }

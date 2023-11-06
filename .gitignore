@@ -20,6 +20,7 @@
 *.nar
 *.ear
 *.zip
+*.zip-cache
 *.tar.gz
 *.rar
 
@@ -154,3 +155,21 @@ fabric.properties
 !/gradle/wrapper/gradle-wrapper.jar
 
 # End of https://www.toptal.com/developers/gitignore/api/androidstudio,kotlin
+
+.externalNativeBuild/
+.cxx/
+output.json
+
+# IntelliJ
+.idea/
+misc.xml
+deploymentTargetDropDown.xml
+render.experimental.xml
+
+# Google Services (e.g. APIs or Firebase)
+google-services.json
+
+# Android Profiling
+*.hprof
+*.dex
+build
